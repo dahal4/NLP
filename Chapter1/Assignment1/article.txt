@@ -1,0 +1,59 @@
+ by Bernd Debusmann | 27 Jul 2026 | Artificial Intelligence, Human Rights, Politics, Technology
+Three different types of unmanned weaponry. (Illustration by News Decoder)
+This article was produced exclusively for News Decoder’s global news service. It is through articles like this that News Decoder strives to provide context to complex global events and issues and teach global awareness through the lens of journalism. Learn how you can incorporate our resources and services into your classroom or educational program. 
+“My main concern is with lethal autonomous weapons systems. Let us call them what they are: killer robots. Machines selecting and engaging their target and taking a life — without human control and judgement. This is morally repugnant.”
+So said United Nations Secretary General António Guterres at a meeting in July that brought together AI leaders from UN member states, international organisations, the private sectors, academia and civil leaders.
+Officially named the first Global Dialogue on Artificial Intelligence, it reflected growing global concern that rapidly-advancing AI is outrunning the ability of governments to regulate it. While that applies to all aspects of modern life, it is particularly worrying in warfare.
+Therefore, Guterres argued, the deployment of LAWS (lethal autonomous weapons systems) “is politically unacceptable. And it must be banned by international law.”
+International law and international bans have a poor track record but Guterres deserves praise for finally drawing attention to a subject that has been debated for decades by human rights groups, the military and experts working for the world’s biggest AI companies, most of them based in the United States.
+One of them, Anthropic, is involved in a high-profile dispute with the U.S. Department of Defense that mirrored the concerns voiced by Guterres’s UN conference. Anthropic, along with Google, Open AI and xAI, won government contracts last year worth around $200 million to accelerate AI adoption for national security.
+Unlike the other AI companies, Anthropic insisted that its most sophisticated model must not be used by the government for fully autonomous weapons; i.e. robots and mass domestic surveillance.
+To emphasize fears that technology is outrunning human control, Anthropic’s CEO, Dario Amodei, called for a global, coordinated slowdown in artificial intelligence development. AI systems, he warned, are advancing with such speed that they soon could build and improve their own successors, without human control.
+Other AI-developing companies reacted coolly. The Pentagon reacted with anger. It ordered all federal agencies to stop using Anthropic technology and declared the company a “supply chain risk” — a designation that is now subject of a battle in court.
+It is more than a contract dispute — it is a fundamental disagreement over who controls the use of AI in weapons or other aspects of life.
+When you talk to techies, sooner or later the different types of control over aerial, ground and maritime unmanned vehicles comes up.
+There is “in the loop”, meaning that a human operator directs the autonomous system and decides whether or not to kill the target. There is “on the loop”, which is when a human operator does not directly control the automated system but can override its decision. Finally, there is  “off the loop”, indicating that the system operates independently and makes life-or-death decisions.
+For an illustrative example of an “in the loop” operation let’s look back to the 3 January 2020 assassination of Major-General Qassem Solimani, one of Iran’s most powerful military leaders, in a drone strike ordered by U.S. President Donald Trump.
+Solimani’s movements had been closely tracked for days and it became known that he was about to visit Baghdad. On arrival, he was greeted by the leader of a pro-Iranian Iraqi militia who escorted him to two cars waiting outside.
+As they began pulling away, they were hit by 100-pound (45 kg) Hellfire missiles launched from MQ9 Reaper drones high overhead. The cars exploded into fireballs, incinerating Solimani, his host and eight of their aides.
+Typical for an “in the loop” operation, the U.S. Air Force officer who pushed the button to launch the missile sat in a stationary “cockpit” at Creech Air Force base near Las Vegas, almost 7,450 miles (12,000 km) from Baghdad.
+In the six years since the assassination — or “targeted killing” as the United States called it, drones have become a central weapon in the wars between Ukraine and Russia, the United States and Iran, Sudan and most of all Israel against Hamas, a campaign which turned Gaza into a field of ruins and killed more than 70,000 Palestinians.
+Israel’s war on Gaza showed the limits of “in the loop” operations given the green light by military and political leaders. One of the main purposes of using AI in war is to process huge amounts of data to identify suspected enemies. Left to human intelligence officers, that can be a protracted process.
+It took weeks to follow Solimani and finally pinpoint him at the door of Baghdad airport. In contrast, Israeli AI programmes, based on cellphone data, facial recognition and locations known to frequent Hamas militants, produced a list of 37,000 targets within days of the 7 October 2023 massacre by Hamas of more than 1,200 Israelis.
+One user of the system, named Lavender, told the Israeli-Palestinian +972 news outlet: “I would invest 20 seconds for each target and do dozens of them every day. I had zero added-value as a human, apart from being a stamp of approval [of the AI-generated list].”
+Though you could argue that the Israelis followed “in the loop” procedures, simply pressing a fire button in response to a target provided by a computer, without the time to double-check, does not amount to human control.
+AI-generated target lists are part of the explanation of the high Palestinian death toll in Gaza. Human rights organisations say most of them were civilians, or in military jargon “collateral damage”.
+It is not often that the chief of an AI company and the chief of the United Nations publicly share worries about how speedily technology spreads. But addressing the UN meeting on Artificial Intelligence this month, Antonio Guterres gave an example.
+“The Internet took 15 years to reach a billion people,” he said. “AI got there in two. And these systems are no longer tools awaiting instruction — they are writing code, acting online and making choices with less and less human oversight.”
+Despite widespread agreement that action is necessary, you need to see the world through rose-tinted glasses to predict universal acceptance of rules. Last November, the UN General Assembly issued a resolution on the risks AI can pose to international humanitarian law and an emerging arms race.
+The vote was 156 in favour and five against. These five were the United States, Russia, North Korea, Belarus and Israel. There were eight abstentions, including China, which is competing with the United States on accelerating AI development.
+UN General Assembly resolutions are not binding, though they reflect global views. Turning resolutions into international law requires the blessing of  all five members of the UN Security Council. One veto is sufficient to sink a proposal. The United States, Russia and possibly China would vote against it.
+A major problem in pushing ahead with AI development, according to a report in the MIT Technology Review, is what the computational neuroscientist Uri Maoz calls “Black Boxes.”
+“Having studied intentions in the human brain for decades and in AI systems more recently, I can attest that state-of-the-art AI systems are essentially Black Boxes,” he wrote. “We know the inputs and outputs, but the artificial ‘brain’ processing them remains opaque. Even their creators cannot fully interpret them or understand how they work.”
+That will be even more true once the countries that are now using drones — Ukraine has emerged as a leader in its fight against the Russian invasion — begin to use large swarms rather than individual drones. So, scientists are intensifying their study of bees.
+Like bees, drone swarms operate in large numbers, adapt their behaviour in real time, share tasks, communicate with each other and continue with their tasks even after suffering losses.
+1. Why do some tech experts worry about AI-controlled weapons?
+2. Why might machine error in judgement be more frightening than human error?
+3. If you could speak to the head of an AI weapons developer, what questions would you ask?
+
+Bernd Debusmann is a former columnist for Reuters who has worked as a correspondent, bureau chief and editor in Europe, Latin America, the Middle East, Africa and United States. He has reported from more than 100 countries and lived in nine. He was shot twice in the course of his work – once covering a night battle in the center of Beirut and once in an assassination attempt prompted by his reporting on Syria.
+Your email address will not be published. Required fields are marked *
+Comment * 
+Name * 
+Email * 
+Website 
+ Save my name, email, and website in this browser for the next time I comment.
+ 
+
+
+
+
+Δ
+
+Follow us
+What We DoWho We AreNews Decoder UpdatesContact UsDonate
+About School MembershipsGlobal Citizen EducationOur School PartnersJoin Our Global Community
+43, rue de la Division du Général Leclerc | 94110 Arcueil, France
+© News Decoder 2026. All rights reserved. | Terms & Conditions | Privacy Policy | Editorial Policy
+News Decoder is the educational services unit of Nouvelles-Découvertes, a registered French nonprofit.
+Webmaster Joy Matéo – Digit’all Communication
